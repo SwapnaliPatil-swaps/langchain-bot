@@ -1,0 +1,12 @@
+.env
+credentials.json
+gcp-oauth.keys.json
+*.db
+*.sqlite
+*.sqlite-*
+chroma_db/
+chat_threads.json
+logs/*.log
+.venv/
+__pycache__/
+*.pyc
